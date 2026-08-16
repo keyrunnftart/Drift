@@ -1,5 +1,5 @@
 # Drift
-
+![Drift agent identity mark](drift_profile_picture.png)
 A B-Side No. 1 submission: a still image generated from one real 168-hour
 window of ETH/USDT hourly prices, run through a deterministic reconciliation
 simulation, and selected by a scoring rule fixed before any candidate was
